@@ -1,0 +1,115 @@
+body{
+	padding: 0;
+	margin: 0; 
+  overflow-x: hidden;
+  background-color: white;
+}
+
+header{
+width: 100vw;
+height: 100vh;
+background-image: url(../photo/banner.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+
+#logo{
+  width: 17vw;
+  height: 33vh;
+  background-image: url(../photo/logo.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  margin-top: 7vh;
+  margin-left: 23.5vw;
+}
+
+
+
+#call{
+	width: 50vw;
+    height: 10vh;
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	font-size: 6vh;
+	color: white; 
+	position: absolute;
+    margin-top: 50vh;
+    margin-left: 9vw;
+}
+
+#pushme{
+	width: 17.5vw;
+  height: 32vh;
+  background-color: white;
+  border-radius: 2px;
+  margin-left: 24.5vw;
+  margin-top: 77vh;
+  border: 0.5px solid gray;
+  }
+#pic-one{
+ width: 18vw;
+ height: 9vh;
+ background-image: url(../photo/chai.png);
+ background-repeat: no-repeat;
+ margin-top: 100px;
+
+
+}
+
+#block-two{
+  width: 100vw;
+  height: 42vh;
+  background-color: white;
+
+
+}
+
+.text-block{
+  margin-top: 135px;
+  font-size: 20px;  
+}
+
+.button-block-two{
+  width: 200px;
+  height: 50px;
+  margin-left: 50px;
+  background-color:#227dd3;
+  color: white;
+  border:0;
+  font-size: 23px;
+
+
+}
+#Documents{
+  margin-left:25vw;
+  margin-top: 10vh;
+}
+#documents-text{
+  margin-left: 31vw;
+  margin-top: -15vh;
+}
+#Camera{
+  margin-left: 60vw;
+  margin-top: -11vh;
+}
+#Photos{
+  margin-left: 66vw;
+  margin-top: -15vh;
+}
+#block-three{
+margin-top: 450px;
+}
+#block-three-fon{
+  width:1920px;
+  height: 1405px;
+  background-image: url(../photo/fon-three.png);
+  background-repeat: no-repeat;
+  background-size: 1920px 1405px;
+}
+#block-three-ipad{
+  background-image: url(../photo/ipad.png);
+  background-repeat: no-repeat;
+}
+
